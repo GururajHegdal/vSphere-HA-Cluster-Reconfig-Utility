@@ -24,7 +24,7 @@ Flow through of the solution:
 
 
 ##### Run from Pre-built Jars
- * Copy/Download the fdmconfig.jar from Runnable-jar folder (from the uploaded file) and unzip on to local drive folder say c:\hostdstat
+ * Copy/Download the fdmconfig.jar from Runnable-jar folder (from the uploaded file) and unzip on to local drive folder say c:\fdmconfig
  * Open a command prompt and cd to the folder, lets say cd fdmconfig
  * Run a command like shown below to see various usage commands:  
  _C:\fdmconfig>java -jar fdmconfig.jar --help_
